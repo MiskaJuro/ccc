@@ -1,0 +1,15 @@
+/home/student/MyTuffApp/bin/Debug/net6.0/MyTuffApp
+/home/student/MyTuffApp/bin/Debug/net6.0/MyTuffApp.deps.json
+/home/student/MyTuffApp/bin/Debug/net6.0/MyTuffApp.runtimeconfig.json
+/home/student/MyTuffApp/bin/Debug/net6.0/MyTuffApp.dll
+/home/student/MyTuffApp/bin/Debug/net6.0/MyTuffApp.pdb
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.csproj.AssemblyReference.cache
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.AssemblyInfoInputs.cache
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.AssemblyInfo.cs
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.csproj.CoreCompileInputs.cache
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.dll
+/home/student/MyTuffApp/obj/Debug/net6.0/refint/MyTuffApp.dll
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.pdb
+/home/student/MyTuffApp/obj/Debug/net6.0/MyTuffApp.genruntimeconfig.cache
+/home/student/MyTuffApp/obj/Debug/net6.0/ref/MyTuffApp.dll
