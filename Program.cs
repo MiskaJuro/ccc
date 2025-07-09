@@ -441,13 +441,22 @@ class Program
                 Console.WriteLine("Press any button to Spin");
                 Console.Write("Press 'x' to exit.");
 
+                if (BalanceManager.Get() > 120) {
+                    BalanceManager.Write((BalanceManager.Get()-120));
+                } else {
+                    Console.WriteLine("");
+                    Console.Write("NEMÁŠ DOSTATEK PENĚZ >:(");
+                    Console.ReadKey();
+                    Main();
+                }
+
                 var key = Console.ReadKey(true);
                 if (key.KeyChar == 'x' || key.KeyChar == 'X') {
                     Main();
                 }
 
                 if (o1 == o2 && o2 == o3) {
-                    Console.WriteLine("Vyhrál jsi! 🎉 Obdržel jsi "+BalanceManager.GetDluh()+(BalanceManager.Get()/5)+"Kč!");
+                    Console.WriteLine("Vyhrál jsi! 🎉 Obdržel jsi "+BalanceManager.GetDluh()/2+"Kč!");
                     Console.WriteLine("Press any button to exit");
                     Console.ReadKey();
                     Main();
